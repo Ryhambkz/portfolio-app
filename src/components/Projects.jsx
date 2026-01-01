@@ -21,7 +21,7 @@ const projects = [
     tech: ["JavaScript", "HTML", "CSS"],
     github: "https://github.com/Ryhambkz/nodejs-lab3",
     demo: "",
-    size: "small"
+    size: "large"
   
   },
   {
@@ -32,7 +32,7 @@ const projects = [
     tech: ["Node.js", "NPM", "JavaScript"],
     github: "https://github.com/Ryhambkz/lab3",
     demo: "",
-    size: "medium"
+    size: "large"
   },
   {
      id: 4,
@@ -42,7 +42,7 @@ const projects = [
     tech: ["Jest", "React Testing Library", "JavaScript"],
     github: "https://github.com/Ryhambkz/lab4_jest",
     demo: "",
-    size: "medium"
+    size: "large"
   },
   {
     id: 5,
@@ -52,7 +52,7 @@ const projects = [
     tech: ["React", "JSX", "CSS Modules"],
     github: "https://github.com/Ryhambkz/lab5",
     demo: "",
-    size: "medium"
+    size: "large"
   },
   {
     id: 6,
@@ -62,7 +62,7 @@ const projects = [
     tech: ["Vite", "JavaScript", "CSS"],
     github: "https://github.com/Ryhambkz/caw-labs",
     demo: "",
-    size: "medium"
+    size: "large"
   },
   {
     id: 7,
